@@ -5,9 +5,9 @@
 
 Spis treści
 
-- [P_Q1](#P_Q1) **List vs Tuple vs Array vs Set vs Dict**
+- [P_Q1](#P_Q1) ** - List vs Tuple vs Array vs Set vs Dict**
 
-## P_Q1 **List vs Tuple vs Array vs Set vs Dict**
+## P_Q1 - **List vs Tuple vs Array vs Set vs Dict**
 
 | List | Tuple | Array | Set | Dict |
 |-----------|-----------|-----------|-----------|
