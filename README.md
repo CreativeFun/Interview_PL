@@ -5,9 +5,12 @@
 
 Spis treści
 
-** - [P_Q1](#P_Q1) - List vs Tuple vs Array vs Set vs Dict**
+- [**P_Q1**](#P_Q1) **- List vs Tuple vs Array vs Set vs Dict**
+- [**P_Q2**](#P_Q2) **- Jakim językiem jest python? Czy jest językiem skryptowym?**
 
 ## P_Q1 - List vs Tuple vs Array vs Set vs Dict
+
+## P_Q2 - Jakim językiem jest python? Czy jest językiem skryptowym?
 
 | List | Tuple | Array | Set | Dict |
 |-----------|-----------|-----------|-----------|
