@@ -5,7 +5,7 @@
 
 Spis treści
 
-- [List vs Tuple vs Array vs Set vs Dict](# 1. List vs Tuple vs Array vs Set vs Dict)
+- [1. List vs Tuple vs Array vs Set vs Dict](  #1. List vs Tuple vs Array vs Set vs Dict )
 
 ## 1. List vs Tuple vs Array vs Set vs Dict
    
@@ -14,14 +14,3 @@ Spis treści
 | Wartość 1 | Wartość 2 | Wartość 3 |Wartość 3 |
 | Wartość A | Wartość B | Wartość C | Wartość C |
 
-
-
-- [Opis](#opis)
-- [Funkcjonalności](#funkcjonalności)
-- [Instalacja](#instalacja)
-  - [Wymagania](#wymagania)
-  - [Kroki instalacji](#kroki-instalacji)
-- [Licencja](#licencja)
-
-## Opis
-Krótki opis projektu.
