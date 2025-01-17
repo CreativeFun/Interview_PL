@@ -8,7 +8,10 @@ Spis treści
 - [**P_Q1**](#P_Q1) **- List vs Tuple vs Array vs Set vs Dict**
 - [**P_Q2**](#P_Q2) **- Jakim językiem jest python? Czy jest językiem skryptowym?**
 - [**P_Q3**](#P_Q3) **- Czym jest PEP 8?**
-  
+- [**P_Q4**](#P_Q4) **- Czy python jest językiem interpretowanym?  Wyjaśnij.**
+- [**P_Q5**](#P_Q5) **- Czym są dekoratory w Pythonie?**
+- [**P_Q6**](#P_Q6) **- Czym są list of comprehensions i dict of comprehensions?**
+ 
 ## P_Q1 - List vs Tuple vs Array vs Set vs Dict
 
 | List | Tuple | Array | Set | Dict |
@@ -29,10 +32,10 @@ Język interpretowany to każdy język programowania, który nie jest przekszta�
 
 Dekoratory służą do dodawania wzorców projektowych do funkcji bez zmieniania jej struktury. Dekoratory zazwyczaj są definiowane przed funkcją, którą mają ulepszyć. Aby zastosować dekorator, najpierw definiujemy funkcję dekoratora. Następnie piszemy funkcję, do której ma zostać zastosowany dekorator, i dodajemy funkcję dekoratora powyżej tej funkcji. W tym celu używamy symbolu @ przed dekoratorem.
 
-## P_Q5 - Czym są list of comprehensions i dict of comprehensions?
+## P_Q6 - Czym są list of comprehensions i dict of comprehensions?
 
 List of comprehensions i dict of comprehensions to kolejny, bardziej zwięzły sposób definiowania słowników i list w Pythonie.
-Przykład komprehensji listy:
+Przykład list of comprehensions:
 
 ```python
 x = [i for i in range(5)]
@@ -49,8 +52,8 @@ Przykład komprehensji słownika:
 
 ```python
 x = {i: i + 2 for i in range(5)}  
-Powoduje to utworzenie słownika:
 ```
+Powoduje to utworzenie słownika:
 
 ```python
 {0: 2, 1: 3, 2: 4, 3: 5, 4: 6}  
