@@ -5,11 +5,10 @@
 
 Spis treści
 
-- [P_Q1](#P_Q1) **1. List vs Tuple vs Array vs Set vs Dict**
+- [P_Q1](#P_Q1) **List vs Tuple vs Array vs Set vs Dict**
 
-## P_Q1
-**1. List vs Tuple vs Array vs Set vs Dict**
-   
+## P_Q1 **List vs Tuple vs Array vs Set vs Dict**
+
 | List | Tuple | Array | Set | Dict |
 |-----------|-----------|-----------|-----------|
 | Wartość 1 | Wartość 2 | Wartość 3 |Wartość 3 |
